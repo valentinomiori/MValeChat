@@ -1,0 +1,6 @@
+@MValeChat.Web_HostAddress = http://localhost:5231
+
+GET {{MValeChat.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
