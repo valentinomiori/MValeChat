@@ -3,7 +3,7 @@ using Microsoft.Extensions.Hosting;
 using Orleans.Hosting;
 using Orleans.Runtime;
 
-namespace MValeChat;
+namespace MValeChat.Server;
 
 public class Program
 {
